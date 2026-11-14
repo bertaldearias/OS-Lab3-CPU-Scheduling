@@ -35,10 +35,10 @@
 
 | Information | Details |
 |-------------|---------|
-| Name | [Your Full Name] |
-| Course and Section | [Your Course and Section] |
-| Instructor | [Instructor's Name] |
-| Date Submitted | [Submission Date] |
+| Name | [BERT ALDE J. ARIAS] |
+| Course and Section | [COMPUTER APPLICATIONS |B186] |
+| Instructor | [Maria Fe Bahinting] |
+| Date Submitted | [NOVEMBER 14, 2026 (SAT)] |
 
 ---
 
