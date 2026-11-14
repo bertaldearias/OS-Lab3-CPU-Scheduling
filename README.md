@@ -36,7 +36,7 @@
 | Information | Details |
 |-------------|---------|
 | Name | BERT ALDE J. ARIAS |
-| Course and Section | COMPUTER APPLICATIONS |B186] |
+| Course and Section | COMPUTER APPLICATIONS - B186 |
 | Instructor | MARIA FE BAHINTING |
 | Date Submitted | NOVEMBER 14, 2026 (SAT) |
 
